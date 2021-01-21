@@ -1,0 +1,15 @@
+Epoch - 1, iteration 200. Loss - 0.759418782293797. Accuracy - 0.7753000000
+Epoch - 1, iteration 400. Loss - 0.512648670673370. Accuracy - 0.8056000000
+Epoch - 1, iteration 600. Loss - 0.461819347888231. Accuracy - 0.8303000000
+Epoch - 2, iteration 200. Loss - 0.425508091673255. Accuracy - 0.8323000000
+Epoch - 2, iteration 400. Loss - 0.399569386541843. Accuracy - 0.8517000000
+Epoch - 2, iteration 600. Loss - 0.393940469920635. Accuracy - 0.8581000000
+Epoch - 3, iteration 200. Loss - 0.375380348786712. Accuracy - 0.8610000000
+Epoch - 3, iteration 400. Loss - 0.355501681491733. Accuracy - 0.8622000000
+Epoch - 3, iteration 600. Loss - 0.359493621438742. Accuracy - 0.8662000000
+Epoch - 4, iteration 200. Loss - 0.347328740730882. Accuracy - 0.8652000000
+Epoch - 4, iteration 400. Loss - 0.338279470875859. Accuracy - 0.8712000000
+Epoch - 4, iteration 600. Loss - 0.333196098282933. Accuracy - 0.8707000000
+Epoch - 5, iteration 200. Loss - 0.330294795185328. Accuracy - 0.8734000000
+Epoch - 5, iteration 400. Loss - 0.322334375306964. Accuracy - 0.8777000000
+Epoch - 5, iteration 600. Loss - 0.318366596624255. Accuracy - 0.8730000000
